@@ -1,0 +1,866 @@
+[
+  {
+    "index": 0,
+    "question_id": "5a8b57f25542995d1e6f1371",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q000/fresh",
+    "sqlite_sha256": "00ab35fc14b76e98a8155393961be84d18e3b66037b66e4444d358f220fcbfe3",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 1,
+    "question_id": "5a8c7595554299585d9e36b6",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q001/fresh",
+    "sqlite_sha256": "bd7db0dc1971f9232ee9f9c60af97f55d0c067ee450aecd77c5bda7ed4c69ea6",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 2,
+    "question_id": "5a85ea095542994775f606a8",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q002/fresh",
+    "sqlite_sha256": "41866610c8fdde2a1637c84d5e7a5be7524525a642a86c07b8b822ed172d7070",
+    "chunks": 10,
+    "support_sentences": 5,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 3,
+    "question_id": "5adbf0a255429947ff17385a",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q003/fresh",
+    "sqlite_sha256": "78aeb81348a549dc7a74ab1da187734f8f8af3751f5373c65d7db90afc953c58",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 4,
+    "question_id": "5a8e3ea95542995a26add48d",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q004/fresh",
+    "sqlite_sha256": "f56895e2f91d861fb8f3523d423dcbc08a77527fb370ae2f5d99363ba40921db",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 5,
+    "question_id": "5abd94525542992ac4f382d2",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q005/fresh",
+    "sqlite_sha256": "b79e7246732da041adc6fd56f45d3e70aae34a5708cb5c44947bf9076117f3b7",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 6,
+    "question_id": "5a85b2d95542997b5ce40028",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q006/fresh",
+    "sqlite_sha256": "47e85b95759c5528b002962ef87e2026b3b73e3caa1a18ff0ef130100b8ea5f8",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 7,
+    "question_id": "5a87ab905542996e4f3088c1",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q007/fresh",
+    "sqlite_sha256": "00f7968ff6ae061228c4847d83f92f874caf1c855c051462f281a37829b91222",
+    "chunks": 12,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 8,
+    "question_id": "5a7bbb64554299042af8f7cc",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q008/fresh",
+    "sqlite_sha256": "a504de0e0147241ac070f4886e2fa69cb9f38f30538c9427584f02e601df1724",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 9,
+    "question_id": "5a8db19d5542994ba4e3dd00",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q009/fresh",
+    "sqlite_sha256": "263747cda9243e5822827bae2105bf345191e3a15238118b1606c0c0a7f9da67",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 10,
+    "question_id": "5a7166395542994082a3e814",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q010/fresh",
+    "sqlite_sha256": "4736c72c09bc1fb43f67a98ff8bfbc1b3fd7b7fd1a09bb3b28341a27a17cfc24",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 11,
+    "question_id": "5a877e5d5542993e715abf7d",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q011/fresh",
+    "sqlite_sha256": "132f7cb44a98dca83e2e44cf7f94955e6e5dc211444a8b43c65ad5778753480e",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 12,
+    "question_id": "5ab3b0bf5542992ade7c6e39",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q012/fresh",
+    "sqlite_sha256": "73640d87092cbaf6bdd5c60140ae4b0066000c302274e11c465883c1fb4dd137",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 13,
+    "question_id": "5ab56e32554299637185c594",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q013/fresh",
+    "sqlite_sha256": "f7c76c8911a6ffd34118ac8ef7277565cbc9c4e5d6a5a15eedb21715150d7e3c",
+    "chunks": 12,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 14,
+    "question_id": "5ab6d09255429954757d337d",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q014/fresh",
+    "sqlite_sha256": "4b0316d3368962bab02467a1f480a593d85e079528122821fda12fe0c5450f7f",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 15,
+    "question_id": "5a75e05c55429976ec32bc5f",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q015/fresh",
+    "sqlite_sha256": "e30cbc02688dcc28978ef5c2688dcf22dd64e8760dbc96792fbafd95dbc67a67",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 16,
+    "question_id": "5ab3e45655429976abd1bcd4",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q016/fresh",
+    "sqlite_sha256": "9648d578213b8f7bb83731b5f3608c9351765e47efa2140077e49193cd0abead",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 17,
+    "question_id": "5ab29c24554299449642c932",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q017/fresh",
+    "sqlite_sha256": "adfd04da0465aa1613fcbf1ea05b2fe233fb650db06208d93ce1c7eea522d272",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 18,
+    "question_id": "5ae0d4c9554299603e418468",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q018/fresh",
+    "sqlite_sha256": "72c53c64f1108c1d313695ebf48079ee7159ba6abfde5309523f7ff159d681ac",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 19,
+    "question_id": "5a8133725542995ce29dcbdb",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q019/fresh",
+    "sqlite_sha256": "9305013815575fe6bf113483a79bbac0beb0175ae2a765b71626f558c7a1cb71",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 20,
+    "question_id": "5ae7a8175542993210983ed8",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q020/fresh",
+    "sqlite_sha256": "b1dfa967c1e1d0e45a1c050d04be0a3666bb9d9fc29a96b3cdd40b7feb2a6875",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 21,
+    "question_id": "5ae6050f55429929b0807a5e",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q021/fresh",
+    "sqlite_sha256": "3a62d263287f663e87dbb9f90d4abd795e52c81aafc036a7805167136f0e8d79",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 22,
+    "question_id": "5adddccd5542997dc7907069",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q022/fresh",
+    "sqlite_sha256": "06f1440f1cb501a8769a40e6cff578d284e0a52099d22961eb1a504b10336b5b",
+    "chunks": 10,
+    "support_sentences": 4,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 23,
+    "question_id": "5ae2070a5542994d89d5b313",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q023/fresh",
+    "sqlite_sha256": "94a986c521195871ca9681391b5a694ffb431536debfbc109d3ff8d69c5de26d",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 24,
+    "question_id": "5ae22b8d554299234fd0440f",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q024/fresh",
+    "sqlite_sha256": "1a25bca96c5bb3c94e6d8b33392b97a2b0cf8bb96847a447909d9e3df020ef37",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 25,
+    "question_id": "5a722b8655429971e9dc9329",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q025/fresh",
+    "sqlite_sha256": "55da55fcc27600825383a11d9c1fd168fd74cf632737d4fba7f8960f1e7aa9e5",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 26,
+    "question_id": "5adf37a95542995ec70e8f97",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q026/fresh",
+    "sqlite_sha256": "0c24bf326421ee99449626ea7b75ba9c68c061c4dba0b441b3d56f1a177a8d24",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 27,
+    "question_id": "5abd259d55429924427fcf1a",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q027/fresh",
+    "sqlite_sha256": "da36827aef0422744e5cbba8e679803f8fa34e258028009d98ca4b88af72860f",
+    "chunks": 2,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 28,
+    "question_id": "5a828c8355429966c78a6a50",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q028/fresh",
+    "sqlite_sha256": "674ee8ef536bd906d0724ba067dd93cd99db96b7d56e8b0cb02d21796c41d77d",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 29,
+    "question_id": "5a8a3e745542996c9b8d5e70",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q029/fresh",
+    "sqlite_sha256": "8dc58c119b2b3e2869e16dcc5181a7a824a48ffa4b8fadcf32bd84fe0675c4f0",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 30,
+    "question_id": "5ac23ff0554299636651994d",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q030/fresh",
+    "sqlite_sha256": "8b29fd7cbaaad703efcc8cc1cb9cc01fe4d5be87f3002aa1f61a1c43dea4cc1a",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 31,
+    "question_id": "5ae4a3265542995ad6573de5",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q031/fresh",
+    "sqlite_sha256": "606559b2e41a7a97a3c9934025ee567eb6f417e23485a0021c7882e7456ec989",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 32,
+    "question_id": "5ae0361155429925eb1afc2c",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q032/fresh",
+    "sqlite_sha256": "41ab0e6c520eccac7b953ceea6360049d1fcd774a697fad6725e3fa7295a3a6e",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 33,
+    "question_id": "5abc0a5d5542993f40c73c64",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q033/fresh",
+    "sqlite_sha256": "698ccb7f4652ee1c1c08945c21bb78bd094d02d1fce57e0f9792b864da218bbb",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 34,
+    "question_id": "5a7cc50e554299452d57ba3e",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q034/fresh",
+    "sqlite_sha256": "681a5642d3579a0696d55948fef6e36bbedad5110c0c0012911d2199edbb1fdc",
+    "chunks": 10,
+    "support_sentences": 4,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 35,
+    "question_id": "5abf63f15542997ec76fd3ea",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q035/fresh",
+    "sqlite_sha256": "6db2f95bfdcdebcc379f4031b2f9c508f357fd1a4c9b09ea0c42c502dc0d63af",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 36,
+    "question_id": "5a8ef2a75542995a26add583",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q036/fresh",
+    "sqlite_sha256": "07089e689af08366bc37cff9daba759851a1ddb4c075b1e663ca0e5d8fb2a499",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 37,
+    "question_id": "5a80721b554299485f5985ef",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q037/fresh",
+    "sqlite_sha256": "cab6b0edf74962b4754e85ab0947b46b309d89a863eb2bdb270015f2ef590376",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 38,
+    "question_id": "5ab51dae5542991779162d82",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q038/fresh",
+    "sqlite_sha256": "697a5ce088b6df27901c04c4b3daf07a502af84dc4dabad6d5b4e4bcbb056272",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 39,
+    "question_id": "5a7571135542992d0ec05f98",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q039/fresh",
+    "sqlite_sha256": "5de1038d77d43d1317c5ebcf889f38aabd23c532dee9689c9821a3d74f1c2d00",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 40,
+    "question_id": "5a7a0e1e5542990783324e1a",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q040/fresh",
+    "sqlite_sha256": "8774bd81ca1eb35603177970156c898e98b99ae7736386026af46dc2d7fd2f46",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 41,
+    "question_id": "5a74106b55429979e288289e",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q041/fresh",
+    "sqlite_sha256": "e0ce42bc5289a65b6753deaf9ba0f1a4ec51fec1646b2d88d459f6a8c2744580",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 42,
+    "question_id": "5a79311755429970f5fffe67",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q042/fresh",
+    "sqlite_sha256": "7e55bf5380fd8813b3d330df5edd290c183a44d6ab5248400c31eac0b2326eff",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 43,
+    "question_id": "5ab2d3df554299194fa9352c",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q043/fresh",
+    "sqlite_sha256": "14582f127ff731e25c5d5aeaa3705af1a28fb238461059eaecdd96a534142299",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 44,
+    "question_id": "5a760ab65542994ccc918697",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q044/fresh",
+    "sqlite_sha256": "1e82f809af2bb602821f7ac784611c70de7fafd48a219dce252e2841010cfc3e",
+    "chunks": 11,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 45,
+    "question_id": "5a7d54165542995f4f402256",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q045/fresh",
+    "sqlite_sha256": "64544d336bb5e7ab86c52f2b3e32a757e97b1b7542ad7759195c6a0624771abf",
+    "chunks": 10,
+    "support_sentences": 4,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 46,
+    "question_id": "5ab859a955429934fafe6d7b",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q046/fresh",
+    "sqlite_sha256": "3420238f65aa7b45be4fc7c3b41d9b30316bb7a5d5d5f0efe3ad1a405c804752",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 47,
+    "question_id": "5add61d65542995b365fab21",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q047/fresh",
+    "sqlite_sha256": "433135f74cf75284e86a504d609b08bdbc31288fc7205e5a59aa351b7be85168",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 48,
+    "question_id": "5a8e068b5542995085b37384",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q048/fresh",
+    "sqlite_sha256": "007371574a99408a048116172ec0be5f4a2ffa3b535209f08b6319041f0ea311",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 49,
+    "question_id": "5abbf698554299114383a0b5",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q049/fresh",
+    "sqlite_sha256": "0645f017e87b4b153c56514a8e4680f5ade8bf583679d9e54151200d0e7c6efb",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 50,
+    "question_id": "5a8e1027554299653c1aa15f",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q050/fresh",
+    "sqlite_sha256": "24dc00585df63fb51dd7246859d9a0ae7ebcb5a4e8c70cf6f33828af3ab0ca61",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 51,
+    "question_id": "5ab84bf555429916710eb01f",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q051/fresh",
+    "sqlite_sha256": "451c0a15fff52d910963270809fba7939482604ebaee090bfd640f084baf5cd0",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 52,
+    "question_id": "5a77724455429972597f153e",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q052/fresh",
+    "sqlite_sha256": "2deaaacb85cb1afad1a5f103e309b420986389f8953ceb5bd49b27f290a5f08e",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 53,
+    "question_id": "5a87c13f5542996e4f30890c",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q053/fresh",
+    "sqlite_sha256": "2e34bf2562c03faca818571344b4402561dcc3e7225f4d9678044d363b33b1ad",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 54,
+    "question_id": "5ab96ab755429970cfb8eacd",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q054/fresh",
+    "sqlite_sha256": "988f93e4c4284d67b97f4b920f0d5497f9b84a1a0553681875cb6d387960f6e0",
+    "chunks": 10,
+    "support_sentences": 4,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 55,
+    "question_id": "5a8a43eb5542996c9b8d5e82",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q055/fresh",
+    "sqlite_sha256": "f33ee09b111b65aa104874015e8642137eacd0a3365a7e1bf41b667a3aa88f7c",
+    "chunks": 10,
+    "support_sentences": 4,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 56,
+    "question_id": "5ae73acb5542991e8301cc07",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q056/fresh",
+    "sqlite_sha256": "fe6c64af477d5bda7a3551d39824e9b1672031073b132d2d8a007f32fb4c0c85",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 57,
+    "question_id": "5a7320565542991f9a20c61d",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q057/fresh",
+    "sqlite_sha256": "9091bc3c66b9a1e8761510c2cff2a9008e9c75188e7c9839ab64f9a91bfea8fa",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 58,
+    "question_id": "5ae32e125542991a06ce9946",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q058/fresh",
+    "sqlite_sha256": "d679756d6db7aaf2015728f6bb7d522f7db9a7a7a5cdda82537ca84b8906c519",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 59,
+    "question_id": "5adc53f75542996e6852530a",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q059/fresh",
+    "sqlite_sha256": "54eb6044ad2605667d87243ec1fd3fdbe3ad392abb1689c7209178bed5f62b42",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 60,
+    "question_id": "5a8b20335542996c9b8d5fb3",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q060/fresh",
+    "sqlite_sha256": "4acf8fab9195a61a45be8ceb94e67b7fc2d1974f072e0d07914a748629a6943e",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 61,
+    "question_id": "5a85fb085542994775f606de",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q061/fresh",
+    "sqlite_sha256": "38d610187d75a4b692c22cb41f1e98d8d809052428a11e2d46d341db0228b392",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 62,
+    "question_id": "5a7be2595542997c3ec972ac",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q062/fresh",
+    "sqlite_sha256": "6e108b8dd737571e169a8907e41ced011d7423aeba18da75cd4a4c5fc95aaecd",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 63,
+    "question_id": "5a77152355429966f1a36c2e",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q063/fresh",
+    "sqlite_sha256": "b5e8cbcb7c8e42da925e023e88c215747ae04f2e5e6bff87bab43145b8789212",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 64,
+    "question_id": "5a8f4c8d554299458435d5a3",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q064/fresh",
+    "sqlite_sha256": "434bf028823e196ecfe4b15f4b5681ad20912496da26057380801f1437c98a52",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 65,
+    "question_id": "5a80840f554299485f59863b",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q065/fresh",
+    "sqlite_sha256": "bbdfb40491f03e2c7b364642b6cd2e653fafdffb2d705c0bedfd1714f80bccce",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 66,
+    "question_id": "5a8361b65542992ef85e22a0",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q066/fresh",
+    "sqlite_sha256": "deb48700d8a3414c89a8e2e283c4d6a207ff92c06cf77a99114ef1310f4a1e40",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 67,
+    "question_id": "5ae7ba7a5542993210983f12",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q067/fresh",
+    "sqlite_sha256": "3229f0530d9549bb8fd92e608d5dfb088b7afa2e8a9f630913f2e5b2d9445ce0",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 68,
+    "question_id": "5ac2acff55429921a00ab02b",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q068/fresh",
+    "sqlite_sha256": "a698ac8db3c4d5c2695dd855e11c4693d58585d6fe29cbb97ac3fb3cb71fd122",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 69,
+    "question_id": "5aba7cfe554299232ef4a2fd",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q069/fresh",
+    "sqlite_sha256": "f0e5ba022b4f115188c2df35e481b62f3e7b498b3e856c994eb3883b8280c194",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 70,
+    "question_id": "5ae5aba0554299546bf82f17",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q070/fresh",
+    "sqlite_sha256": "6901e953678e957837ddfe768125afc48563221d61f3bcbcc8ea0608c30dad80",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 71,
+    "question_id": "5ae1f4cb554299234fd0436d",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q071/fresh",
+    "sqlite_sha256": "84b8c9dfce9cb98892ab2dca84d7e6eb84720f18266fe12537cba8796194e68a",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 72,
+    "question_id": "5ae7e1fc55429952e35ea9cc",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q072/fresh",
+    "sqlite_sha256": "9925cb647558ab5645f3e3aa77cd49286e5e5ebc1638ec87c50cd2f9eb6b3751",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 73,
+    "question_id": "5ae37c765542992f92d822d4",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q073/fresh",
+    "sqlite_sha256": "ca161ed1cbea0854c00465811a6cb9892abf9a11aa432f0efc79b8a364e8ec03",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 75,
+    "question_id": "5a77cb335542997042120b3a",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q075/fresh",
+    "sqlite_sha256": "e0e44fcaa8567c0e9658e1723aec429ea26bd8b57b611aa17d49c7a9a58148f1",
+    "chunks": 10,
+    "support_sentences": 4,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 76,
+    "question_id": "5a8979f4554299669944a52e",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q076/fresh",
+    "sqlite_sha256": "7939203e20254cd4ce0f5c11713b6b53783141a97bada27a4997b7ba97943c7c",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 77,
+    "question_id": "5a713ea95542994082a3e6e4",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q077/fresh",
+    "sqlite_sha256": "496dab3a09f1c004ca05a0799739c3463bba619801407ea40aedab7937e82046",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 78,
+    "question_id": "5a78bd9b554299078472774a",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q078/fresh",
+    "sqlite_sha256": "54c0f13844779dea1c09fa9f7c24b0c3a1703c76f542916eacbc63787ff79150",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 79,
+    "question_id": "5a7625e8554299109176e66a",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q079/fresh",
+    "sqlite_sha256": "a1a52176a2dd46ae3de43196bf3d10c9e77e5f92ae41b48522f5cc2432821e7e",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 80,
+    "question_id": "5ae2dd2055429928c423950d",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q080/fresh",
+    "sqlite_sha256": "0d43c64ceabbfda2674ba62b957ffaffbbd0c9aafb35f0b04ce869fa69c8d3a1",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 81,
+    "question_id": "5abdf12255429976d4830a2f",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q081/fresh",
+    "sqlite_sha256": "32c0fb0b6f9b6c795f0e86e1311943d28923fa069fb71772b5dd246eeb256520",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 82,
+    "question_id": "5a88658955429938390d3f47",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q082/fresh",
+    "sqlite_sha256": "326fd89cc3cafdd3c2363ae9af280e07f80cf751c3d3611d5e16b189d2e4cc6d",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 83,
+    "question_id": "5a86ebac55429960ec39b6d6",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q083/fresh",
+    "sqlite_sha256": "6425e86a2a003568263d09a47f8afc49bcf6ee789d8d2dc0f670f6bec35c6447",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 84,
+    "question_id": "5aba5d2e55429901930fa799",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q084/fresh",
+    "sqlite_sha256": "c8c089d20c7c8a1eaba2d385a2dd8d08bce94a5e703ebd2850306da27c7d6716",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 85,
+    "question_id": "5ae5736e5542990ba0bbb2b3",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q085/fresh",
+    "sqlite_sha256": "cb357f1addc7c18437dee2ae2be2f80dcaf9d41ece6a72accf6fbef5d8fed6be",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 86,
+    "question_id": "5ae005b555429942ec259bec",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q086/fresh",
+    "sqlite_sha256": "a2b2779bb38cb184a131ac339e82402df6970fefe97154ea0b5aacb2533cfe8f",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 87,
+    "question_id": "5a7759fc5542993569682d60",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q087/fresh",
+    "sqlite_sha256": "bbdbad363cd54aeb2f723d3f6562181d637b6aefd6d5f4824a4f9412325c7d64",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 88,
+    "question_id": "5a835478554299123d8c20ed",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q088/fresh",
+    "sqlite_sha256": "24596e6ba38ef7470cb2ebd3e6f729ecde27a558e693473d0eda18759df78fb9",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 89,
+    "question_id": "5aba749055429901930fa7d8",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q089/fresh",
+    "sqlite_sha256": "a0a49ed4ffc2d872978977a3e7a4f1607e3255831767fea1e80b4b594de7cae5",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 90,
+    "question_id": "5abfb3425542990832d3a1c0",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q090/fresh",
+    "sqlite_sha256": "630214a3d8462677289a87c58cf683ff375d55ae144beb719d5418bc6acb6ef5",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 91,
+    "question_id": "5ac3165c5542995ef918c10a",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q091/fresh",
+    "sqlite_sha256": "875f9a0cea7e055b9463330cf39da72f35cddf042a88dd2fa722c97e7fb4550e",
+    "chunks": 10,
+    "support_sentences": 3,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 92,
+    "question_id": "5ae53b545542990ba0bbb23c",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q092/fresh",
+    "sqlite_sha256": "c5487790e3a88ebb70fd6bac69894854af5982e92d70bb168a998d2849a8c4c8",
+    "chunks": 10,
+    "support_sentences": 4,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 93,
+    "question_id": "5ae224da554299234fd043ee",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q093/fresh",
+    "sqlite_sha256": "14001a950586ce4939abffb52ca805e85da31dec47ecf77a4c63e02e31f0846a",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 94,
+    "question_id": "5ae2b770554299495565db0f",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q094/fresh",
+    "sqlite_sha256": "ed8b2e23df40d2df84df57db273fcaa0c965edb8048a12fb8c70eff0fc5c7172",
+    "chunks": 10,
+    "support_sentences": 4,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 95,
+    "question_id": "5a80b3a9554299485f5986cc",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q095/fresh",
+    "sqlite_sha256": "70a456b7d183ac5fa94b4e43864aa3482e5d66e84fb2ae9ded62987ca7a37567",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  },
+  {
+    "index": 96,
+    "question_id": "5a8e0a005542995085b373a1",
+    "graph": "/root/autodl-tmp/V16_run/eval/database/hotpot_same_v16_q36plus_newprompt_20261111/q096/fresh",
+    "sqlite_sha256": "40e6256efbea5050e714a65054da9fbaeb14aaca35645dd8ebd75bc8dee6ecc7",
+    "chunks": 10,
+    "support_sentences": 2,
+    "support_coverage_passed": true
+  }
+]
